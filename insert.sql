@@ -8,7 +8,7 @@ INSERT INTO publisher (id, name, country) VALUES (6, 'Vintage', 'UK');
 INSERT INTO books (id, title, publisher) VALUES (1, 'The C Programming Language', 1);
 INSERT INTO books (id, title, publisher) VALUES (2, 'The Go Programming Language', 1);
 INSERT INTO books (id, title, publisher) VALUES (3, 'The UNIX Programming Environment', 1);
-INSERT INTO books (id, title, publisher) VALUES (4, 'Cryptonomicom', 2);
+INSERT INTO books (id, title, publisher) VALUES (4, 'Cryptonomicon', 2);
 INSERT INTO books (id, title, publisher) VALUES (5, 'Deep Work', 3);
 INSERT INTO books (id, title, publisher) VALUES (6, 'Atomic Habits', 4);
 INSERT INTO books (id, title, publisher) VALUES (7, 'The City and The City', 5);
