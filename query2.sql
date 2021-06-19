@@ -1,1 +1,1 @@
-SELECT books.title, publisher.name FROM books JOIN publisher WHERE publisher.country = 'UK';
+SELECT books.title, publisher.name FROM books, publisher WHERE publisher.country = 'UK';
